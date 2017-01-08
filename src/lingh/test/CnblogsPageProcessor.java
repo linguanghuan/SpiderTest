@@ -35,11 +35,11 @@ public class CnblogsPageProcessor implements PageProcessor {
 //    private static final String AUTHOR = "qiyeboy";
 //    private static final String BLOG_ID = "269038"; 
 //    
-//    private static final String AUTHOR = "coder2012";
-//    private static final String BLOG_ID = "129585"; 
+    private static final String AUTHOR = "coder2012";
+    private static final String BLOG_ID = "129585"; 
     
-    private static final String AUTHOR = "orlion";
-    private static final String BLOG_ID = "241238";
+//    private static final String AUTHOR = "orlion";
+//    private static final String BLOG_ID = "241238";
     
     private static final String LIST_URL = "http://www\\.cnblogs\\.com/" + AUTHOR + "/default\\.html\\?page=.*";
     private static final String ARITICALE_URL = "http://www\\.cnblogs\\.com/" + AUTHOR + "/p/(\\d+)\\.html";
