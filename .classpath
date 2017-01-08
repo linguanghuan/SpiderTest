@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="dependencies/assertj-core-1.5.0.jar"/>
+	<classpathentry kind="lib" path="dependencies/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="dependencies/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="dependencies/commons-io-1.3.2.jar"/>
+	<classpathentry kind="lib" path="dependencies/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="dependencies/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="dependencies/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="dependencies/commons-pool-1.5.5.jar"/>
+	<classpathentry kind="lib" path="dependencies/fastjson-1.1.37.jar"/>
+	<classpathentry kind="lib" path="dependencies/guava-15.0.jar"/>
+	<classpathentry kind="lib" path="dependencies/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="dependencies/httpclient-4.3.3.jar"/>
+	<classpathentry kind="lib" path="dependencies/httpcore-4.3.2.jar"/>
+	<classpathentry kind="lib" path="dependencies/jedis-2.0.0.jar"/>
+	<classpathentry kind="lib" path="dependencies/json-path-0.8.1.jar"/>
+	<classpathentry kind="lib" path="dependencies/json-smart-1.1.1.jar"/>
+	<classpathentry kind="lib" path="dependencies/jsoup-1.7.2.jar"/>
+	<classpathentry kind="lib" path="dependencies/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="dependencies/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="dependencies/slf4j-api-1.7.6.jar"/>
+	<classpathentry kind="lib" path="dependencies/slf4j-log4j12-1.7.6.jar"/>
+	<classpathentry kind="lib" path="dependencies/webmagic-core-0.5.2-sources.jar"/>
+	<classpathentry kind="lib" path="dependencies/webmagic-core-0.5.2.jar" sourcepath="dependencies/webmagic-core-0.5.2-sources.jar"/>
+	<classpathentry kind="lib" path="dependencies/webmagic-extension-0.5.2-sources.jar"/>
+	<classpathentry kind="lib" path="dependencies/webmagic-extension-0.5.2.jar" sourcepath="dependencies/webmagic-extension-0.5.2-sources.jar"/>
+	<classpathentry kind="lib" path="dependencies/xsoup-0.2.4.jar"/>
+	<classpathentry kind="lib" path="dependencies/mysql-connector-java-5.1.40-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
