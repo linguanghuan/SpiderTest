@@ -29,5 +29,46 @@
 	<classpathentry kind="lib" path="dependencies/webmagic-extension-0.5.2.jar" sourcepath="dependencies/webmagic-extension-0.5.2-sources.jar"/>
 	<classpathentry kind="lib" path="dependencies/xsoup-0.2.4.jar"/>
 	<classpathentry kind="lib" path="dependencies/mysql-connector-java-5.1.40-bin.jar"/>
+	<classpathentry kind="lib" path="dependencies/webmagic-selenium-0.5.2.jar"/>
+	<classpathentry kind="lib" path="dependencies/selenium-java-2.50.0.jar" sourcepath="dependencies/selenium-java-2.50.0-srcs.jar"/>
+	<classpathentry kind="lib" path="dependencies/websocket-api-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="dependencies/websocket-client-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="dependencies/websocket-common-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="dependencies/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="dependencies/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="dependencies/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="dependencies/nekohtml-1.9.22.jar"/>
+	<classpathentry kind="lib" path="dependencies/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="dependencies/phantomjsdriver-1.2.1.jar"/>
+	<classpathentry kind="lib" path="dependencies/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="dependencies/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="dependencies/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="dependencies/htmlunit-2.18.jar"/>
+	<classpathentry kind="lib" path="dependencies/htmlunit-core-js-2.17.jar"/>
+	<classpathentry kind="lib" path="dependencies/httpmime-4.5.jar"/>
+	<classpathentry kind="lib" path="dependencies/jasper-compiler-5.5.15.jar"/>
+	<classpathentry kind="lib" path="dependencies/jasper-compiler-jdt-5.5.15.jar"/>
+	<classpathentry kind="lib" path="dependencies/jasper-runtime-5.5.15.jar"/>
+	<classpathentry kind="lib" path="dependencies/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="dependencies/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="dependencies/jetty-continuation-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="dependencies/jetty-http-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="dependencies/jetty-io-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="dependencies/jetty-jmx-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="dependencies/jetty-security-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="dependencies/jetty-server-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="dependencies/jetty-servlet-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="dependencies/jetty-servlets-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="dependencies/jetty-util-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="dependencies/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="dependencies/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="dependencies/jsp-api-2.0.jar"/>
+	<classpathentry kind="lib" path="dependencies/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="dependencies/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="dependencies/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="dependencies/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="dependencies/commons-el-1.0.jar"/>
+	<classpathentry kind="lib" path="dependencies/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="dependencies/cssparser-0.9.16.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
